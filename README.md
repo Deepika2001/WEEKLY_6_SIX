@@ -1,5 +1,4 @@
-# WEEKLY_6_SIX
-DEEPIKA2001
+
 using System;
 
 
